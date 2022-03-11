@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 [![Header](https://raw.githubusercontent.com/henridev/henridev/main/banner.png "Header")]("")
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/henridev/henridev/master/wave.gif" width="30px">
 
-My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgium, currently living in Paris and working at Capgemini. You can find me on on ![[LinkedIn][1.1]][1].
+My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgium, currently living in Paris and working at Capgemini. You can find me on on [![LinkedIn][1.1]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
