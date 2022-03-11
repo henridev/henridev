@@ -37,7 +37,7 @@ My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgi
 
 ## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/Algorithms-fundamentals-informational?style=flat&logo=thealgorithms&logoColor=red&color=2bbc8a)
-![](https://img.shields.io/badge/AWS-Solutions-Architect-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS_Solutions_Architect-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
