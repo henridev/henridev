@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/henridev/henridev/main/banner.png "Header")]("")
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/henridev/henridev/master/wave.gif" width="30px">
+# Hello, internet! <img src="https://raw.githubusercontent.com/henridev/henridev/master/wave.gif" width="30px">
 
 My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgium, currently living in Paris and working at Capgemini. You can find me on on [![LinkedIn][1.1]][1].
 
@@ -35,6 +35,9 @@ My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgi
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 
+## 🌱 I’m currently learning
+
+![](https://img.shields.io/badge/Algorithms-fundamentals-informational?style=flat&logo=thealgorithms&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
