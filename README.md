@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/henridev/henridev/main/banner.png "Header")]("")
 
-# Hello, internet! <img src="https://raw.githubusercontent.com/henridev/henridev/master/wave.gif" width="30px">
+# Hello, internet! 
+
+<img src="https://raw.githubusercontent.com/henridev/henridev/master/wave.gif" width="30px">
 
 My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgium, currently living in Paris and working at Capgemini. You can find me on on [![LinkedIn][1.1]][1].
 
