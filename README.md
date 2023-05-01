@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/henridev/henridev/master/wave.gif" width="30px">
 
-My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgium, currently living in Paris and working at Capgemini. You can find me on on [![LinkedIn][1.1]][1].
+My name is Henri De Bel and I'm a (fullstack) software developer. I'm from Belgium, currently living in New York and working at Société Générale. You can find me on on [![LinkedIn][1.1]][1].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
